@@ -1,2 +1,2 @@
 # AP-CSA
-This repository contains all of the programming assignments and projects I completed while taking AP Computer Science Applications in high school.
+Each assignment and project has its own folder. This code was written in BlueJ and must be run in BlueJ by executing the main method.
